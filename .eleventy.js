@@ -1,6 +1,6 @@
 module.exports = function(eleventyConfig) {
     return {
-        input: "src",
+        input: "docs",
         output: "public"
     }
 }
